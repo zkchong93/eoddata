@@ -27,16 +27,16 @@ Indicators (per ticker, latest bar):
                                  ticker (up to 47 bars), using typical price
                                  (H+L+C)/3 as the price input
 
-Screen (all conditions concurrent):
-    close  >= 5              no penny stocks
-    volume >  1,000,000
-    dvol   >  10,000,000     (close * volume)
+Screen (all conditions concurrent; volume/dvol thresholds differ daily vs weekly):
+    close  >= 5                          no penny stocks
+    volume >  2,000,000 (daily) / 8,000,000 (weekly)
+    dvol   > 20,000,000 (daily) / 50,000,000 (weekly)   (close * volume)
     RSI6 > RSI12 > RSI24
     SMA4 > SMA12
-    RVOL10 > 1 at least once in the last 10 periods
+    RVOL10 > 1.3 at least once in the last 10 periods
 
 Output: result_daily.csv / result_weekly.csv, overwritten each run.
-Columns: Ticker, Close, VWAP
+Columns: Ticker, Close, VWAP (VWAP rounded to 3dp)
 """
 
 import os
@@ -47,7 +47,8 @@ import pandas as pd
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 RVOL_PERIOD = 10    # periods averaged to get "typical" volume
-RVOL_LOOKBACK = 10  # how many recent periods to check for RVOL > 1
+RVOL_LOOKBACK = 10  # how many recent periods to check for RVOL > RVOL_MIN
+RVOL_MIN = 1.3
 
 # Needed history: SMA46 *and* SMA46 one bar back (for gradient) = 47;
 # RVOL10 over the last 10 periods needs RVOL_PERIOD + RVOL_LOOKBACK = 20.
@@ -149,7 +150,7 @@ def compute_ticker_metrics(df_ticker):
     }
 
 
-def screen(parquet_path, output_csv, label):
+def screen(parquet_path, output_csv, label, vol_min, dvol_min):
     print("=" * 70)
     print(f"SCREEN {label} ({os.path.basename(parquet_path)})")
     print("=" * 70)
@@ -169,15 +170,15 @@ def screen(parquet_path, output_csv, label):
     df_metrics = pd.DataFrame(results)
     print(f"   {len(df_metrics):,} / {df['T'].nunique():,} tickers had enough history")
 
-    print("\n3. Applying screen...")
+    print(f"\n3. Applying screen (volume > {vol_min:,}, dvol > {dvol_min:,})...")
     passed = df_metrics[
         (df_metrics["Close"] >= 5)
-        & (df_metrics["Volume"] > 1_000_000)
-        & (df_metrics["DVOL"] > 10_000_000)
+        & (df_metrics["Volume"] > vol_min)
+        & (df_metrics["DVOL"] > dvol_min)
         & (df_metrics["RSI6"] > df_metrics["RSI12"])
         & (df_metrics["RSI12"] > df_metrics["RSI24"])
         & (df_metrics["SMA4"] > df_metrics["SMA12"])
-        & (df_metrics["RVOL10_max_10"] > 1)
+        & (df_metrics["RVOL10_max_10"] > RVOL_MIN)
     ].copy()
     print(f"   {len(passed):,} ticker(s) pass all filters")
 
@@ -186,6 +187,7 @@ def screen(parquet_path, output_csv, label):
         .rename(columns={"T": "Ticker"})
         .sort_values("Ticker")
     )
+    out["VWAP"] = out["VWAP"].round(3)
     out.to_csv(output_csv, index=False)
     print(f"\n4. Saved {output_csv} ({len(out)} rows)")
     print("\n" + "=" * 70 + "\n")
@@ -196,9 +198,13 @@ if __name__ == "__main__":
         os.path.join(BASE_DIR, "z_eoddata.parquet"),
         os.path.join(BASE_DIR, "result_daily.csv"),
         "DAILY",
+        vol_min=2_000_000,
+        dvol_min=20_000_000,
     )
     screen(
         os.path.join(BASE_DIR, "z_eowdata.parquet"),
         os.path.join(BASE_DIR, "result_weekly.csv"),
         "WEEKLY",
+        vol_min=8_000_000,
+        dvol_min=50_000_000,
     )
