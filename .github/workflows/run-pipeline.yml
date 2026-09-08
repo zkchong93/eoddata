@@ -1,8 +1,4 @@
-name: Run EOD notebooks
-
-# PLACEHOLDER -- not wired to a live repo yet. Once notebooks/*.ipynb exist
-# (see notebooks/README.md) and this folder is pushed to GitHub as its own
-# repo, this workflow will run the daily pipeline unattended.
+name: Run EOD pipeline
 
 on:
   schedule:
@@ -79,19 +75,19 @@ jobs:
         run: pip install -r requirements.txt
 
       # Order matters: daily/weekly builders must run before the screener.
-      - name: Run 1_append_daily
-        run: jupyter nbconvert --to notebook --execute --inplace notebooks/1_append_daily.ipynb
+      - name: Run 1_append_daily.py
+        run: python 1_append_daily.py
 
-      - name: Run 2_append_weekly
-        run: jupyter nbconvert --to notebook --execute --inplace notebooks/2_append_weekly.ipynb
+      - name: Run 2_append_weekly.py
+        run: python 2_append_weekly.py
 
-      - name: Run 3_screen
-        run: jupyter nbconvert --to notebook --execute --inplace notebooks/3_screen.ipynb
+      - name: Run 3_screen.py
+        run: python 3_screen.py
 
-      # Runner is ephemeral -- persist the regenerated parquet/csv/ipynb
-      # outputs back to the repo, or the next run starts from nothing.
+      # Runner is ephemeral -- persist the regenerated parquet/csv outputs
+      # back to the repo, or the next run starts from nothing.
       - name: Commit updated outputs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated EOD pipeline run [skip ci]"
-          file_pattern: "*.parquet *.csv notebooks/*.ipynb"
+          file_pattern: "*.parquet *.csv"
