@@ -87,6 +87,15 @@ jobs:
           EODDATA_API_KEY: ${{ secrets.EODDATA_API_KEY }}
         run: python 0_fetch_eod.py
 
+      # Refreshes etp_exclusions.csv (ETFs/ETNs that 3_screen.py must drop) from
+      # Nasdaq's public symbol directory. continue-on-error for the same reason
+      # as the fetcher above: the script already falls back to the committed
+      # snapshot on a network failure, so a bad day upstream costs at most a
+      # slightly stale exclusion list, never a broken pipeline.
+      - name: Run 0b_fetch_symbol_types.py
+        continue-on-error: true
+        run: python 0b_fetch_symbol_types.py
+
       - name: Run 1_append_daily.py
         run: python 1_append_daily.py
 
