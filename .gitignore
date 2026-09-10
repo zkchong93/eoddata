@@ -1,5 +1,8 @@
 __pycache__/
 *.pyc
+
+# API credentials -- never commit
+eoddata_api_key.txt
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db

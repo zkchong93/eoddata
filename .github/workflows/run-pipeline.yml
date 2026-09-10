@@ -74,7 +74,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Order matters: daily/weekly builders must run before the screener.
+      # Order matters: the fetcher must land the day's CSVs in EOD/ before the
+      # daily/weekly builders read them, and both must run before the screener.
+      # continue-on-error: a failed/rate-limited fetch still shows red in the
+      # Actions UI, but must not stop the rest of the pipeline -- whatever CSVs
+      # did land should still be built into the parquets and committed. The
+      # fetcher re-checks a trailing window, so a missed day is retried on the
+      # next run by itself.
+      - name: Run 0_fetch_eod.py
+        continue-on-error: true
+        env:
+          EODDATA_API_KEY: ${{ secrets.EODDATA_API_KEY }}
+        run: python 0_fetch_eod.py
+
       - name: Run 1_append_daily.py
         run: python 1_append_daily.py
 
@@ -90,4 +102,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated EOD pipeline run [skip ci]"
-          file_pattern: "*.parquet *.csv"
+          # EOD/*.csv is included so the newly-fetched raw dailies persist --
+          # 2_append_weekly.py reads them back on later runs to rebuild weeks.
+          file_pattern: "*.parquet *.csv EOD/*.csv"

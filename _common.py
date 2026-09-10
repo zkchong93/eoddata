@@ -29,7 +29,13 @@ def load_eod_csvs(eod_dir, min_date=None):
         file_date = pd.to_datetime(m.group(2), format="%Y%m%d")
         if min_date is not None and file_date < min_date:
             continue
-        df = pd.read_csv(os.path.join(eod_dir, fname))
+        # keep_default_na=False: the ticker "NA" is a real NASDAQ symbol, and
+        # pandas' default NA strings would silently turn it into NaN (one
+        # nulled row per file). na_values=[""] keeps genuinely blank numeric
+        # cells parsing as NaN.
+        df = pd.read_csv(
+            os.path.join(eod_dir, fname), keep_default_na=False, na_values=[""]
+        )
         df = df.rename(columns=CSV_COLUMN_MAP)
         df["date"] = pd.to_datetime(df["Date"], format="%d-%b-%Y")
         frames.append(df[["T", "date", "o", "h", "l", "c", "v"]])
