@@ -2,17 +2,13 @@ name: Run EOD pipeline
 
 on:
   schedule:
-    # Target: 10:30pm US/Eastern the previous evening (well after the 4pm ET
-    # close, giving the free data source time to publish the day's file).
-    # GitHub Actions cron has no timezone/DST awareness, so both UTC
-    # equivalents are scheduled below and a runtime check (job "guard")
-    # skips whichever one doesn't match the current US DST state.
-    #   - EDT (UTC-4, ~mid-Mar to early-Nov): 22:30 ET = 02:30 UTC next day
-    #   - EST (UTC-5, ~early-Nov to mid-Mar): 22:30 ET = 03:30 UTC next day
-    # Day-of-week is UTC, so "Tue-Sat 02:30/03:30 UTC" covers US Mon-Fri
-    # trading days -- which lands Tue-Sat morning in Malaysia (UTC+8).
-    - cron: "30 2 * * 2-6"
-    - cron: "30 3 * * 2-6"
+    # Target: ~11:00 AM Singapore/KL time (UTC+8, no DST). GitHub converts
+    # to UTC internally and adjusts automatically across the US EDT/EST
+    # boundary, so this single cron + timezone entry replaces the old
+    # two-cron-plus-guard-job setup. Day-of-week is evaluated in Singapore's
+    # calendar, so "Tue-Sat" here means Tue-Sat in Malaysia directly.
+    - cron: "13 11 * * 2-6"
+      timezone: "Asia/Singapore"
   workflow_dispatch: {}  # manual "Run workflow" button in the Actions tab
 
 # Stop an overlapping run if the previous one is still going (e.g. a manual
@@ -26,40 +22,7 @@ permissions:
   contents: write
 
 jobs:
-  guard:
-    runs-on: ubuntu-latest
-    outputs:
-      should_run: ${{ steps.check.outputs.should_run }}
-    steps:
-      - name: Check whether this cron matches current US DST state
-        id: check
-        shell: python
-        env:
-          GH_SCHEDULE: ${{ github.event.schedule }}
-          GH_EVENT_NAME: ${{ github.event_name }}
-        run: |
-          import os
-          from datetime import datetime, timezone
-          from zoneinfo import ZoneInfo
-
-          schedule = os.environ.get("GH_SCHEDULE") or ""
-          event_name = os.environ.get("GH_EVENT_NAME", "")
-
-          if event_name != "schedule":
-              should_run = True  # manual workflow_dispatch always runs
-          else:
-              now_et = datetime.now(timezone.utc).astimezone(ZoneInfo("America/New_York"))
-              is_edt = now_et.dst().total_seconds() != 0
-              expected = "30 2 * * 2-6" if is_edt else "30 3 * * 2-6"
-              should_run = schedule.strip() == expected
-
-          print(f"event={event_name!r} schedule={schedule!r} should_run={should_run}")
-          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write(f"should_run={'true' if should_run else 'false'}\n")
-
   run-pipeline:
-    needs: guard
-    if: needs.guard.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
