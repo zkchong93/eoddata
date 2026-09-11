@@ -35,6 +35,8 @@ ABLS,etf_flag,Abacus FCF Small Cap Leaders ETF
 ABOT,etf_flag,Abacus FCF Innovation Leaders ETF
 ABUF,etf_flag,Aptus Laddered Buffer ETF
 ABXB,etf_flag,Abacus Flexible Bond Leaders ETF
+ACBE,etf_flag,Pacer Metaurus Enhanced Core Income Autocallable ETF 
+ACBH,etf_flag,Pacer Metaurus High Income Autocallable ETF 
 ACEI,etf_flag,Innovator Equity Autocallable Income Strategy ETF
 ACEP,etf_flag,ARS Core Equity Portfolio ETF
 ACES,etf_flag,ALPS Clean Energy ETF
@@ -119,7 +121,9 @@ AIBD,etf_flag,Direxion Daily AI and Big Data Bear 2X ETF
 AIBU,etf_flag,Direxion Daily AI and Big Data Bull 2X ETF
 AIEQ,etf_flag,Amplify AI Powered Equity ETF
 AIFD,etf_flag,TCW Artificial Intelligence ETF
+AIFR,etf_flag,Defiance Global Foundries ETF
 AIHY,etf_flag,Defiance AI Hyperscale Leaders ETF
+AIMG,etf_flag,Defiance AI Magnificent 10 ETF
 AIMS,etf_flag,Acuitas Small Cap Active ETF
 AINF,etf_flag,Defiance Inference AI Chip ETF
 AINP,etf_flag,Allspring Income Plus ETF
@@ -952,6 +956,7 @@ CPXR,etf_flag,USCF Daily Target 2X Copper Index ETF
 CQQQ,etf_flag,Invesco China Technology ETF
 CQTM,etf_flag,Corgi Quantum Computing ETF
 CRAK,etf_flag,VanEck Oil Refiners ETF
+CRAM,etf_flag,Defiance China Memory ETF
 CRBN,etf_flag,iShares Low Carbon Optimized MSCI ACWI ETF
 CRCA,etf_flag,ProShares Ultra CRCL
 CRCD,etf_flag,T-REX 2X Inverse CRCL Daily Target ETF
@@ -5214,6 +5219,7 @@ VDI,etf_flag,Virtus International Dividend ETF
 VDIG,etf_flag,Vanguard Wellington Dividend Growth Active ETF
 VDV,etf_flag,Vanguard Developed Markets ex-US Value Index ETF
 VEA,etf_flag,Vanguard FTSE Developed Markets ETF
+VEEM,etf_flag,VanEck MSCI EM Analyst Sentiment ETF
 VEFA,etf_flag,VanEck MSCI EAFE Analyst Sentiment ETF
 VEGA,etf_flag,AdvisorShares STAR Global Buy-Write ETF
 VEGI,etf_flag,iShares MSCI Agriculture Producers ETF
