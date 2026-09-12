@@ -35,8 +35,8 @@ ABLS,etf_flag,Abacus FCF Small Cap Leaders ETF
 ABOT,etf_flag,Abacus FCF Innovation Leaders ETF
 ABUF,etf_flag,Aptus Laddered Buffer ETF
 ABXB,etf_flag,Abacus Flexible Bond Leaders ETF
-ACBE,etf_flag,Pacer Metaurus Enhanced Core Income Autocallable ETF 
-ACBH,etf_flag,Pacer Metaurus High Income Autocallable ETF 
+ACBE,etf_flag,Pacer Metaurus Enhanced Core Income Autocallable ETF
+ACBH,etf_flag,Pacer Metaurus High Income Autocallable ETF
 ACEI,etf_flag,Innovator Equity Autocallable Income Strategy ETF
 ACEP,etf_flag,ARS Core Equity Portfolio ETF
 ACES,etf_flag,ALPS Clean Energy ETF
@@ -2011,6 +2011,7 @@ GEM,etf_flag,Goldman Sachs ActiveBeta Emerging Markets Equity ETF
 GEMD,etf_flag,Goldman Sachs Access Emerging Markets USD Bond ETF
 GEME,etf_flag,Pacific North of South EM Equity Active ETF
 GEMG,etf_flag,Leverage Shares 2X Long GEMI Daily ETF
+GEMQ,etf_flag,Goldman Sachs Data Enhanced Emerging Markets Equity ETF
 GEND,etf_flag,Genter Capital Dividend Income ETF
 GENM,etf_flag,Genter Capital Municipal Quality Intermediate ETF
 GENT,etf_flag,Genter Capital Taxable Quality Intermediate ETF
@@ -3201,6 +3202,7 @@ MJUN,etf_flag,Pacer Swan SOS Moderate June ETF
 MKAM,etf_flag,MKAM ETF
 MKOR,etf_flag,Matthews Korea Active ETF
 MKTN,etf_flag,Federated Hermes MDT Market Neutral ETF
+MLCC,etf_flag,Global X MLCC & Electronic Components ETF
 MLDR,etf_flag,Global X Intermediate-Term Treasury Ladder ETF
 MLN,etf_flag,VanEck Long Muni ETF
 MLPA,etf_flag,Global X MLP ETF
