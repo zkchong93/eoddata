@@ -1012,6 +1012,7 @@ CSRE,etf_flag,Cohen & Steers Real Estate Active ETF
 CSSD,etf_flag,Cohen & Steers Short Duration Preferred and Income Active ETF
 CSTK,etf_flag,Invesco Comstock Contrarian Equity ETF
 CTA,etf_flag,Simplify Managed Futures Strategy ETF
+CTAG,etf_flag,Calamos Timpani Active SMID Growth ETF
 CTAP,etf_flag,Simplify US Equity PLUS Managed Futures Strategy ETF
 CTAU,etf_flag,Corgi U.S. Equities 30% Structured Buffer ETF - August Series
 CTEC,etf_flag,Global X ClimateTech ETF
@@ -1254,6 +1255,7 @@ DON,etf_flag,WisdomTree U.S. MidCap Dividend Fund
 DPRE,etf_flag,Virtus Duff & Phelps Real Estate Income ETF
 DPST,etf_flag,Direxion Daily Regional Banks Bull 3X ETF
 DQJN,etf_flag,FT Vest Nasdaq-100 Dual Directional Buffer ETF - June
+DQSE,etf_flag,FT Vest Nasdaq-100 Dual Directional Buffer ETF - September
 DRAI,etf_flag,Draco Evolution AI ETF
 DRAL,etf_flag,Defiance Daily Target 2X Long DRAM ETF
 DRAM,etf_flag,Roundhill Memory ETF
@@ -4033,6 +4035,7 @@ QPUX,etf_flag,Defiance 2X Daily Long Pure Quantum ETF
 QPX,etf_flag,AdvisorShares Q Dynamic Growth ETF
 QQA,etf_flag,Invesco QQQ Income Advantage ETF
 QQAU,etf_flag,Corgi Growth & Technology 15% Structured Buffer ETF - August Series
+QQBF,etf_flag,FT Vest Nasdaq-100 Quarterly 15 Buffer ETF
 QQDN,etf_flag,ProShares UltraShort QQQ Mega
 QQEW,etf_flag,First Trust Nasdaq-100 Select Equal Weight ETF
 QQH,etf_flag,HCM Defender 100 Index ETF
@@ -4371,6 +4374,7 @@ SDVD,etf_flag,FT Vest SMID Rising Dividend Achievers Target Income ETF
 SDVY,etf_flag,First Trust SMID Cap Rising Dividend Achievers ETF
 SDY,etf_flag,State Street SPDR S&P Dividend ETF
 SEA,etf_flag,U.S. Global Sea to Sky Cargo ETF
+SECA,etf_flag,Main Active Rotation ETF
 SECR,etf_flag,NYLIM MacKay Securitized Income ETF
 SECT,etf_flag,Main Sector Rotation ETF
 SECU,etf_flag,iShares Securitized Income Active ETF
