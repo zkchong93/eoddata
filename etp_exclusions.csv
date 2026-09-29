@@ -1077,7 +1077,7 @@ DBO,etf_flag,Invesco DB Oil Fund
 DBP,etf_flag,Invesco DB Precious Metals Fund
 DCAP,etf_flag,T-Strive Digital Credit Preferred Income ETF
 DCMT,etf_flag,DoubleLine Commodity Strategy ETF
-DCOR,etf_flag,Dimensional US Core Equity 1 ETF
+DCOR,etf_flag,US Core Equity 1 Portfolio ETF Class Shares
 DCRE,etf_flag,DoubleLine Commercial Real Estate Debt ETF
 DDDD,etf_flag,YieldMax U.S. Stocks Target Double Distribution ETF
 DDEC,etf_flag,FT Vest U.S. Equity Deep Buffer ETF - December
@@ -1138,7 +1138,7 @@ DFAC,etf_flag,Dimensional U.S. Core Equity 2 ETF
 DFAE,etf_flag,Dimensional Emerging Core Equity Market ETF
 DFAI,etf_flag,Dimensional International Core Equity Market ETF
 DFAL,etf_flag,Dimensional US Large Cap Core Equity Market ETF
-DFAR,etf_flag,Dimensional US Real Estate ETF
+DFAR,etf_flag,DFA Real Estate Securities Portfolio ETF Class Shares
 DFAS,etf_flag,Dimensional U.S. Small Cap ETF
 DFAT,etf_flag,Dimensional U.S. Targeted Value ETF
 DFAU,etf_flag,Dimensional US Core Equity Market ETF
@@ -1169,7 +1169,7 @@ DFSD,etf_flag,Dimensional Short-Duration Fixed Income ETF
 DFSE,etf_flag,Dimensional Emerging Markets Sustainability Core 1 ETF
 DFSI,etf_flag,Dimensional International Sustainability Core 1 ETF
 DFSU,etf_flag,Dimensional US Sustainability Core 1 ETF
-DFSV,etf_flag,Dimensional US Small Cap Value ETF
+DFSV,etf_flag,US Small Cap Value Portfolio ETF Class Shares
 DFTT,etf_flag,DF Tactical 30 ETF
 DFUS,etf_flag,Dimensional U.S. Equity Market ETF
 DFUV,etf_flag,Dimensional US Marketwide Value ETF
@@ -1292,7 +1292,7 @@ DTH,etf_flag,WisdomTree International High Dividend Fund
 DTRE,etf_flag,First Trust Alerian Disruptive Technology Real Estate ETF
 DUBS,etf_flag,Aptus Large Cap Enhanced Yield ETF
 DUG,etf_flag,ProShares UltraShort Energy
-DUHP,etf_flag,Dimensional US High Profitability ETF
+DUHP,etf_flag,US High Relative Profitability Portfolio ETF Class Shares
 DUKH,etf_flag,Ocean Park High Income ETF
 DUKQ,etf_flag,Ocean Park Domestic ETF
 DUKX,etf_flag,Ocean Park International ETF
@@ -1331,7 +1331,7 @@ DWX,etf_flag,State Street SPDR S&P International Dividend ETF
 DXD,etf_flag,ProShares UltraShort Dow30
 DXIV,etf_flag,Dimensional International Vector Equity ETF
 DXJ,etf_flag,WisdomTree Japan Hedged Equity Fund
-DXUV,etf_flag,Dimensional US Vector Equity ETF
+DXUV,etf_flag,US Vector Equity Portfolio ETF Class Shares
 DYFI,etf_flag,IDX Dynamic Fixed Income ETF
 DYLD,etf_flag,LeaderShares Dynamic Yield ETF
 DYLG,etf_flag,Global X Dow 30 Covered Call & Growth ETF
@@ -2980,6 +2980,7 @@ LBOX,etf_flag,GraniteShares Short Term Box ETF
 LCAP,etf_flag,Principal Capital Appreciation Select ETF
 LCDS,etf_flag,JPMorgan Fundamental Data Science Large Core ETF
 LCF,etf_flag,Touchstone US Large Cap Focused ETF
+LCIV,etf_flag,Logan Capital International ETF
 LCLG,etf_flag,Logan Capital Large Cap Growth ETF
 LCO,etf_flag,LOGIQ Contrarian Opportunities ETF
 LCOW,etf_flag,Pacer S&P 500 Quality FCF Aristocrats ETF
@@ -3758,6 +3759,7 @@ PFLD,etf_flag,AAM Low Duration Preferred and Income Securities ETF
 PFM,etf_flag,Invesco Dividend Achievers ETF
 PFOE,etf_flag,Pathfinder Focused Opportunities ETF
 PFRL,etf_flag,PGIM Floating Rate Income ETF
+PFRX,etf_flag,Putnam Focused U.S. Research ETF
 PFXF,etf_flag,VanEck Preferred Securities ex Financials ETF
 PGF,etf_flag,Invesco Financial Preferred ETF
 PGHY,etf_flag,Invesco Global ex-US High Yield Corporate Bond ETF
