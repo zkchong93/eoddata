@@ -2451,6 +2451,7 @@ ICAP,etf_flag,Infrastructure Capital Equity Income ETF
 ICF,etf_flag,iShares Select U.S. REIT ETF
 ICLN,etf_flag,iShares Global Clean Energy ETF
 ICLO,etf_flag,Invesco AAA CLO Floating Rate Note ETF
+ICMO,etf_flag,Symmetry Panoramic International Country Momentum ETF
 ICOP,etf_flag,iShares Copper and Metals Mining ETF
 ICOW,etf_flag,Pacer Developed Markets International Cash Cows 100 ETF
 ICPI,etf_flag,iShares 0-1 Year TIPS Bond ETF
@@ -2980,7 +2981,6 @@ LBOX,etf_flag,GraniteShares Short Term Box ETF
 LCAP,etf_flag,Principal Capital Appreciation Select ETF
 LCDS,etf_flag,JPMorgan Fundamental Data Science Large Core ETF
 LCF,etf_flag,Touchstone US Large Cap Focused ETF
-LCIV,etf_flag,Logan Capital International ETF
 LCLG,etf_flag,Logan Capital Large Cap Growth ETF
 LCO,etf_flag,LOGIQ Contrarian Opportunities ETF
 LCOW,etf_flag,Pacer S&P 500 Quality FCF Aristocrats ETF
@@ -3092,6 +3092,7 @@ LTPZ,etf_flag,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund
 LTTI,etf_flag,FT Vest 20+ Year Treasury & Target Income ETF
 LULG,etf_flag,Leverage Shares 2X Long LULU Daily ETF
 LUMA,etf_flag,KraneShares Photonic and Optical ETF
+LUNC,etf_flag,Longnook Uncommon Compounders ETF
 LUNL,etf_flag,Defiance Daily Target 2X Long LUNR ETF
 LVDS,etf_flag,JPMorgan Fundamental Data Science Large Value ETF
 LVHD,etf_flag,Franklin U.S. Low Volatility High Dividend Index ETF
@@ -3347,6 +3348,7 @@ MUSE,etf_flag,TCW Multisector Credit Income ETF
 MUSQ,etf_flag,MUSQ Global Music Industry Index ETF
 MUST,etf_flag,Columbia Multi-Sector Municipal Income ETF
 MUU,etf_flag,Direxion Daily MU Bull 2X ETF
+MUY,etf_flag,YieldMax MU Option Income Strategy ETF
 MUYY,etf_flag,GraniteShares YieldBOOST MU ETF
 MUZ,etf_flag,Defiance Daily Target 2X Short MU ETF
 MVAL,etf_flag,VanEck Morningstar Wide Moat Value ETF
@@ -3484,6 +3486,7 @@ NRAM,etf_flag,Yorkville America Next Generation Memory Index ETF
 NRES,etf_flag,Xtrackers RREEF Global Natural Resources ETF
 NRGD,etf_flag,"MicroSectors U.S. Big Oil -3 Inverse Leveraged ETNs due February 17, 2045"
 NRGU,etf_flag,"MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045"
+NRR,etf_flag,Common Shares of Beneficial Interest of Bitwise NEAR ETF
 NRSH,etf_flag,Aztlan North America Nearshoring Stock Selection ETF
 NSCI,etf_flag,Nuveen Securitized Income ETF
 NSEP,etf_flag,Innovator Growth-100 Power Buffer ETF - September
