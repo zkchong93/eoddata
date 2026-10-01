@@ -44,6 +44,7 @@ ACES,etf_flag,ALPS Clean Energy ETF
 ACGO,etf_flag,Hartford Alpha Capture Growth ETF
 ACGR,etf_flag,American Century Large Cap Growth ETF
 ACHX,etf_flag,Corgi ACHR 2x Daily ETF
+ACIG,etf_flag,Hartford Alpha Capture International Growth ETF
 ACII,etf_flag,Innovator Index Autocallable Income Strategy ETF
 ACIO,etf_flag,Aptus Collared Investment Opportunity ETF
 ACKY,etf_flag,VistaShares Target 15 ACKtivist Distribution ETF
@@ -56,6 +57,7 @@ ACQQ,etf_flag,ProShares Nasdaq-100 Autocallable Income ETF
 ACRT,etf_flag,ProShares Russell 2000 Autocallable Income ETF
 ACSG,etf_flag,American Century Small Cap Growth Insights ETF
 ACSI,etf_flag,American Customer Satisfaction ETF
+ACSM,etf_flag,Hartford Alpha Capture SMID Cap ETF
 ACSP,etf_flag,ProShares S&P 500 Autocallable Income ETF
 ACSV,etf_flag,American Century Small Cap Value Insights ETF
 ACTS,etf_flag,FIS Tactical Equity ETF
@@ -331,6 +333,7 @@ AVMA,etf_flag,Avantis Moderate Allocation ETF
 AVMC,etf_flag,Avantis U.S. Mid Cap Equity ETF
 AVMU,etf_flag,Avantis Core Municipal Fixed Income ETF
 AVMV,etf_flag,Avantis U.S. Mid Cap Value ETF
+AVNC,etf_flag,Avantis All International Core Equity ETF
 AVNM,etf_flag,Avantis All International Markets Equity ETF
 AVNV,etf_flag,Avantis All International Markets Value ETF
 AVOS,etf_flag,Avos Global Equities ETF
@@ -1062,6 +1065,7 @@ DAT,etf_flag,ProShares Big Data Refiners ETF
 DAUG,etf_flag,FT Vest U.S. Equity Deep Buffer ETF - August
 DAX,etf_flag,Global X DAX Germany ETF
 DBA,etf_flag,Invesco DB Agriculture Fund
+DBAR,etf_flag,IMGP DBI Absolute Return ETF
 DBAW,etf_flag,Xtrackers MSCI All World ex US Hedged Equity ETF
 DBB,etf_flag,Invesco DB Base Metals Fund
 DBC,etf_flag,Invesco DB Commodity Index Tracking Fund
@@ -1463,6 +1467,7 @@ EMXF,etf_flag,iShares ESG Advanced MSCI EM ETF
 EMXX,etf_flag,Corgi Emerging Markets 2x Daily ETF
 ENDW,etf_flag,Cambria Endowment Style ETF
 ENFR,etf_flag,Alerian Energy Infrastructure ETF
+ENHE,etf_flag,iShares Enhanced Emerging Markets Active ETF
 ENHI,etf_flag,iShares Enhanced International Active ETF
 ENHU,etf_flag,iShares Enhanced Large Cap Core Active ETF
 ENOR,etf_flag,iShares MSCI Norway ETF
@@ -2833,6 +2838,7 @@ JPSV,etf_flag,JPMorgan Active Small Cap Value ETF
 JPUS,etf_flag,JPMorgan Diversified Return U.S. Equity ETF
 JPXN,etf_flag,iShares JPX-Nikkei 400 ETF
 JPY,etf_flag,Lazard Japanese Equity ETF
+JQTY,etf_flag,Jensen U.S. Quality Index ETF
 JQUA,etf_flag,JPMorgan U.S. Quality Factor ETF
 JSCP,etf_flag,JPMorgan Short Duration Core Plus ETF
 JSI,etf_flag,Janus Henderson Securitized Income ETF
@@ -2981,6 +2987,7 @@ LBOX,etf_flag,GraniteShares Short Term Box ETF
 LCAP,etf_flag,Principal Capital Appreciation Select ETF
 LCDS,etf_flag,JPMorgan Fundamental Data Science Large Core ETF
 LCF,etf_flag,Touchstone US Large Cap Focused ETF
+LCIV,etf_flag,Logan Capital International ETF
 LCLG,etf_flag,Logan Capital Large Cap Growth ETF
 LCO,etf_flag,LOGIQ Contrarian Opportunities ETF
 LCOW,etf_flag,Pacer S&P 500 Quality FCF Aristocrats ETF
@@ -4801,7 +4808,7 @@ TCAN,etf_flag,21Shares Canton Network ETF
 TCHI,etf_flag,iShares MSCI China Multisector Tech ETF
 TCHP,etf_flag,T. Rowe Price Blue Chip Growth ETF
 TCPB,etf_flag,Thrivent Core Plus Bond ETF
-TCV,etf_flag,Towle Value ETF
+TCV,etf_flag,Towle Small-Cap Value ETF
 TDAQ,etf_flag,TappAlpha Innovation 100 Growth & Daily Income ETF
 TDAX,etf_flag,TDAQ Lift ETF
 TDCL,etf_flag,GraniteShares 2x Long TDC Daily ETF
