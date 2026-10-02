@@ -1344,6 +1344,7 @@ DYNF,etf_flag,iShares U.S. Equity Factor Rotation Active ETF
 DYTA,etf_flag,SGI Dynamic Tactical ETF
 DZZ,etn_name,"DB Gold Double Short ETN due February 15, 2038"
 EAFG,etf_flag,Pacer Developed Markets Cash Cows Growth Leaders ETF
+EAFH,etf_flag,Xtrackers MSCI EAFE 50% Hedged Equity ETF
 EAGG,etf_flag,iShares ESG Aware U.S. Aggregate Bond ETF
 EAGL,etf_flag,Eagle Capital Select Equity ETF
 EALT,etf_flag,Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly
@@ -3043,6 +3044,7 @@ LJAN,etf_flag,Innovator Premium Income 15 Buffer ETF - January
 LJUL,etf_flag,Innovator Premium Income 15 Buffer ETF - July
 LKOR,etf_flag,Northern Trust Credit-Scored US Long Corporate Bond ETF
 LLDR,etf_flag,Global X Long-Term Treasury Ladder ETF
+LLMA,etf_flag,Global X LLM ETF
 LLYX,etf_flag,Defiance Daily Target 2X Long LLY ETF
 LMBS,etf_flag,First Trust Low Duration Opportunities ETF
 LMTL,etf_flag,Direxion Daily LMT Bull 2X ETF
@@ -3184,7 +3186,7 @@ METG,etf_flag,Leverage Shares 2X Long META Daily ETF
 METL,etf_flag,Sprott Active Metals & Miners ETF
 METQ,etf_flag,Tradr 2X Short META Daily ETF
 METU,etf_flag,Direxion Daily META Bull 2X ETF
-METV,etf_flag,Roundhill Ball Metaverse ETF
+METV,etf_flag,Roundhill Metaverse ETF
 METW,etf_flag,Roundhill META WeeklyPay ETF
 MEXX,etf_flag,Direxion Daily MSCI Mexico Bull 3X ETF
 MFDX,etf_flag,PIMCO RAFI Dynamic Multi-Factor International Equity ETF
@@ -3249,6 +3251,7 @@ MMAR,etf_flag,Pacer Swan SOS Moderate March ETF
 MMAX,etf_flag,iShares Large Cap Max Buffer Mar ETF
 MMAY,etf_flag,Pacer Swan SOS Moderate (May) ETF
 MMCA,etf_flag,NYLIM MacKay California Muni Intermediate ETF
+MMHI,etf_flag,NYLIM MacKay Muni High Income ETF
 MMID,etf_flag,MFS Active Mid Cap ETF
 MMIN,etf_flag,NYLIM MacKay Muni Insured ETF
 MMIT,etf_flag,NYLIM MacKay Muni Intermediate ETF
@@ -3586,8 +3589,10 @@ OBTC,etf_flag,Osprey Bitcoin Trust
 OCDB,etf_flag,Aptus October Deep Buffer ETF
 OCIO,etf_flag,ClearShares OCIO ETF
 OCNL,etf_flag,T-REX 2X Long DOCN Daily Target ETF
+OCT,etf_flag,VanEck U.S. Equity Buffer ETF - October
 OCTB,etf_flag,Aptus October Buffer ETF
 OCTH,etf_flag,Innovator Premium Income 20 Barrier ETF - October
+OCTI,etf_flag,AllianzIM International Equity Buffer15 Uncapped Oct ETF
 OCTJ,etf_flag,Innovator Premium Income 30 Barrier ETF - October
 OCTM,etf_flag,FT Vest U.S. Equity Max Buffer ETF - October
 OCTP,etf_flag,PGIM S&P 500 Buffer 12 ETF - October
@@ -4195,7 +4200,7 @@ RGTU,etf_flag,Tradr 2X Long RGTI Daily ETF
 RGTX,etf_flag,Defiance Daily Target 2X Long RGTI ETF
 RGTZ,etf_flag,Defiance Daily Target 2x Short RGTI ETF
 RGYY,etf_flag,GraniteShares YieldBoost RGTI ETF
-RHRX,etf_flag,RH Tactical Rotation ETF
+RHRX,etf_flag,Adaptive Tactical Rotation ETF
 RHTX,etf_flag,RH Tactical Outlook ETF
 RIET,etf_flag,Hoya Capital High Dividend Yield ETF
 RIFR,etf_flag,Russell Investments Global Infrastructure ETF
@@ -4813,6 +4818,7 @@ TDAQ,etf_flag,TappAlpha Innovation 100 Growth & Daily Income ETF
 TDAX,etf_flag,TDAQ Lift ETF
 TDCL,etf_flag,GraniteShares 2x Long TDC Daily ETF
 TDEC,etf_flag,FT Vest Emerging Markets Buffer ETF - December
+TDEM,etf_flag,T. Rowe Price Dynamic Emerging Markets Bond ETF
 TDI,etf_flag,Touchstone Dynamic International ETF
 TDIV,etf_flag,First Trust NASDAQ Technology Dividend Index Fund
 TDNA,etf_flag,T. Rowe Price Biotech ETF
@@ -4990,6 +4996,7 @@ TQQY,etf_flag,GraniteShares YieldBOOST QQQ ETF
 TRBF,etf_flag,Angel Oak Total Return ETF
 TRFK,etf_flag,Pacer Data and Digital Revolution ETF
 TRFM,etf_flag,AAM Transformers ETF
+TRIL,etf_flag,VegaShares Trillions ETF
 TRIO,etf_flag,MC Trio Equity Buffered ETF
 TRND,etf_flag,Pacer Trendpilot Fund of Funds ETF
 TROT,etf_flag,Invesco MSCI Treasury Duration Rotation ETF
@@ -5644,7 +5651,7 @@ XSHQ,etf_flag,Invesco S&P SmallCap Quality ETF
 XSLV,etf_flag,Invesco S&P SmallCap Low Volatility ETF
 XSMO,etf_flag,Invesco S&P SmallCap Momentum ETF
 XSOE,etf_flag,WisdomTree Emerging Markets Ex-State Owned Enterprises Fund
-XSPC,etf_flag,VegaShares SpaceX & Beyond Earth ETF
+XSPC,etf_flag,VegaShares Space & AI ETF
 XSPI,etf_flag,NEOS Boosted S&P 500 High Income ETF
 XSVM,etf_flag,Invesco S&P SmallCap Value with Momentum ETF
 XSVN,etf_flag,BondBloxx Bloomberg Seven Year Target Duration US Treasury ETF
@@ -5679,6 +5686,7 @@ XVTS,etf_flag,FT Vest TSLA & Target Income ETF
 XVV,etf_flag,iShares ESG Select Screened S&P 500 ETF
 XW,etf_flag,Corgi Ex-U.S. Equities 2x Daily ETF
 XWNG,etf_flag,Amplify Top 10 Space ETF
+XX,etf_flag,"Roundhill S&P 500 Target 10,000 2030 ETF"
 XXRP,etf_flag,Teucrium 2x Long Daily XRP ETF
 XXV,etf_flag,Simplify Ancorato Target 25 Distribution ETF
 XXX,etf_flag,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF
