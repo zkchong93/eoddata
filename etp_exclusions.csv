@@ -67,6 +67,7 @@ ACVU,etf_flag,Hartford Alpha Capture Value ETF
 ACWI,etf_flag,iShares MSCI ACWI ETF
 ACWV,etf_flag,iShares MSCI Global Min Vol Factor ETF
 ACWX,etf_flag,iShares MSCI ACWI ex U.S. ETF
+ACYB,etf_flag,FT Vest Laddered Autocallable Buffer & Resilient Income ETF
 ACYN,etf_flag,FT Vest Laddered Autocallable Barrier & Income ETF
 ACYQ,etf_flag,FT Vest Autocallable Barrier & High Income ETF
 ACYS,etf_flag,FT Vest Laddered Autocallable Barrier & Resilient Income ETF
@@ -204,7 +205,7 @@ ANGU,etf_flag,SEI Ang Research Enhanced U.S. Large Cap ETF
 ANTW,etf_flag,Anthropic AI Lab Ecosystem ETF
 ANV,etf_flag,GraniteShares Autocallable NVDA ETF
 AOA,etf_flag,iShares Core 80/20 Aggressive Allocation ETF
-AOCT,etf_flag,Innovator Equity Defined Protection ETF - 2 Yr to October 2026
+AOCT,etf_flag,Innovator Equity Defined Protection ETF - 2 Yr to October 2028
 AOHY,etf_flag,Angel Oak High Yield Opportunities ETF
 AOK,etf_flag,iShares Core 30/70 Conservative Allocation ETF
 AOM,etf_flag,iShares Core 40/60 Moderate Allocation ETF
@@ -965,6 +966,7 @@ CPST,etf_flag,Calamos S&P 500 Structured Alt Protection ETF  September
 CPSU,etf_flag,Calamos S&P 500 Structured Alt Protection ETF June
 CPSY,etf_flag,Calamos S&P 500 Structured Alt Protection ETF January
 CPTL,etf_flag,Global X Morningstar Capital Allocation Leaders ETF
+CPU,etf_flag,Amplify Top 10 Semiconductors ETF
 CPXR,etf_flag,USCF Daily Target 2X Copper Index ETF
 CQQQ,etf_flag,Invesco China Technology ETF
 CQTM,etf_flag,Corgi Quantum Computing ETF
@@ -3581,6 +3583,7 @@ OAIM,etf_flag,OneAscent International Equity ETF
 OAIW,etf_flag,OpenAI Lab Ecosystem ETF
 OAKG,etf_flag,Oakmark Global Large Cap ETF
 OAKI,etf_flag,Oakmark International Large Cap ETF
+OAKL,etf_flag,Oakmark U.S. Concentrated ETF
 OAKM,etf_flag,Oakmark U.S. Large Cap ETF
 OALC,etf_flag,OneAscent Large Cap Core ETF
 OARK,etf_flag,YieldMax Innovation Option Income Strategy ETF
@@ -4211,6 +4214,7 @@ RIGS,etf_flag,ALPS Strategic Income Fund
 RILA,etf_flag,Indexperts Gorilla Aggressive Growth ETF
 RINF,etf_flag,ProShares Inflation Expectations ETF
 RING,etf_flag,iShares MSCI Global Gold Miners ETF
+RINK,etf_flag,Russell Investments Multisector Bond ETF
 RINT,etf_flag,Russell Investments International Developed Equity ETF
 RIOX,etf_flag,Defiance Daily Target 2X Long RIOT ETF
 RISE,etf_flag,Pictet Emerging Markets Rising Economies ETF
@@ -4522,6 +4526,7 @@ SLON,etf_flag,ProShares Ultra Solana ETF
 SLQD,etf_flag,iShares 0-5 Year Investment Grade Corporate Bond ETF
 SLTY,etf_flag,YieldMax Ultra Short Option Income Strategy ETF
 SLV,etf_flag,iShares Silver Trust
+SLVI,etf_flag,NEOS Silver High Income ETF
 SLVO,etf_flag,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033"
 SLVP,etf_flag,iShares MSCI Global Silver and Metals Miners ETF
 SLVR,etf_flag,Sprott Silver Miners & Physical Silver ETF
@@ -4571,6 +4576,7 @@ SMRX,etf_flag,Corgi SMR 2x Daily ETF
 SMST,etf_flag,Defiance Daily Target 2x Short MSTR ETF
 SMTG,etf_flag,Leverage Shares 2X Long SMTC Daily ETF
 SMTH,etf_flag,ALPS Smith Core Plus Bond ETF
+SMTJ,etf_flag,Synera Funds Takumi+ ETF
 SMU,etf_flag,Tradr 2X Long SMR Daily ETF
 SMUP,etf_flag,T-REX 2X Long SMR Daily Target ETF
 SMYY,etf_flag,GraniteShares YieldBOOST SMCI ETF
@@ -4679,6 +4685,7 @@ SPXD,etf_flag,Xtrackers S&P 500 Diversified Sector Weight ETF
 SPXE,etf_flag,ProShares S&P 500 Ex-Energy ETF
 SPXL,etf_flag,Direxion Daily S&P 500 Bull 3X ETF
 SPXN,etf_flag,ProShares S&P 500 Ex-Financials ETF
+SPXP,etf_flag,Direxion U.S. 500 Plus ETF
 SPXS,etf_flag,Direxion Daily S&P 500 Bear 3X ETF
 SPXT,etf_flag,ProShares S&P 500 Ex-Technology ETF
 SPXU,etf_flag,ProShares UltraPro Short S&P500
