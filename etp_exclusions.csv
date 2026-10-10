@@ -3220,7 +3220,7 @@ MHIP,etf_flag,Milliman Healthcare Inflation Plus ETF
 MHX,etf_flag,Corgi MARA 2x Daily ETF
 MHY,etf_flag,Man Active High Yield ETF
 MIC,etf_flag,Corgi MU 2x Daily ETF
-MID,etf_flag,American Century Mid Cap Growth Impact ETF
+MID,etf_flag,American Century Mid Cap Growth Insights ETF
 MIDE,etf_flag,Xtrackers S&P MidCap 400 Scored & Screened ETF
 MIDU,etf_flag,Direxion Mid Cap Bull 3X ETF
 MIG,etf_flag,VanEck Moody's Analytics IG Corporate Bond ETF
@@ -3649,6 +3649,7 @@ OPEX,etf_flag,Tradr 2X Long OPEN Daily ETF
 OPPE,etf_flag,WisdomTree European Opportunities Fund
 OPPG,etf_flag,WisdomTree GeoAlpha Opportunities Fund
 OPPJ,etf_flag,WisdomTree Japan Opportunities Fund
+OPTO,etf_flag,Tuttle Capital Photonics Income Blast ETF
 OPTZ,etf_flag,Optimize Strategy Index ETF
 ORAC,etf_flag,Corgi ORCL 2x Daily ETF
 ORBX,etf_flag,Global X Space Tech ETF
@@ -5330,6 +5331,7 @@ VGRO,etf_flag,Virtus Silvant Growth Opportunities ETF
 VGSH,etf_flag,Vanguard Short-Term Treasury ETF
 VGSR,etf_flag,Vert Global Sustainable Real Estate ETF
 VGT,etf_flag,Vanguard Information Tech ETF
+VGTX,etf_flag,XFUNDS Technology Income ETF
 VGUS,etf_flag,Vanguard Ultra-Short Treasury ETF
 VGVT,etf_flag,Vanguard Government Securities Active ETF
 VHT,etf_flag,Vanguard Health Care ETF
@@ -5487,10 +5489,12 @@ WRND,etf_flag,NYLIM Global Equity R&D Leaders ETF
 WRTH,etf_flag,Worth Charting Options Income ETF
 WSDB,etf_flag,Weitz Short Duration Bond ETF
 WSGE,etf_flag,Warren Street Global Equity ETF
+WSLS,etf_flag,WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund
 WSMD,etf_flag,Wasatch Small/Mid Cap ETF
 WSML,etf_flag,iShares MSCI World Small-Cap ETF
 WSPC,etf_flag,WisdomTree Space Economy Fund
 WTAI,etf_flag,WisdomTree Artificial Intelligence and Innovation Fund
+WTAL,etf_flag,WisdomTree Global Alpha Fund
 WTBN,etf_flag,WisdomTree Bianco Total Return Fund
 WTIB,etf_flag,USCF Oil Plus Bitcoin Strategy Fund
 WTID,etf_flag,MicroSectors Energy 3X Inverse Leveraged ETNs
@@ -5697,7 +5701,9 @@ XVV,etf_flag,iShares ESG Select Screened S&P 500 ETF
 XW,etf_flag,Corgi Ex-U.S. Equities 2x Daily ETF
 XWNG,etf_flag,Amplify Top 10 Space ETF
 XX,etf_flag,"Roundhill S&P 500 Target 10,000 2030 ETF"
+XXQQ,etf_flag,Subversive Growth 100 Redacted ETF
 XXRP,etf_flag,Teucrium 2x Long Daily XRP ETF
+XXSP,etf_flag,Subversive S&P 500 Redacted ETF
 XXV,etf_flag,Simplify Ancorato Target 25 Distribution ETF
 XXX,etf_flag,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF
 XYLD,etf_flag,Global X S&P 500 Covered Call ETF
