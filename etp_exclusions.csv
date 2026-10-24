@@ -1428,6 +1428,7 @@ ELFY,etf_flag,ALPS Electrification Infrastructure ETF
 ELIL,etf_flag,Direxion Daily LLY Bull 2X ETF
 ELM,etf_flag,Elm Market Navigator ETF
 ELOL,etf_flag,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF
+EMAG,etf_flag,Emerging Markets AI Mag 3 ETF
 EMAU,etf_flag,Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series
 EMB,etf_flag,iShares J.P. Morgan USD Emerging Markets Bond ETF
 EMBD,etf_flag,Global X Emerging Markets Bond ETF
@@ -3672,6 +3673,7 @@ OVF,etf_flag,Overlay Shares Foreign Equity ETF
 OVL,etf_flag,Overlay Shares Large Cap Equity ETF
 OVLH,etf_flag,Overlay Shares Hedged Large Cap Equity ETF
 OVM,etf_flag,Overlay Shares Municipal Bond ETF
+OVQ,etf_flag,Overlay Shares Nasdaq 100 Income ETF
 OVS,etf_flag,Overlay Shares Small Cap Equity ETF
 OVT,etf_flag,Overlay Shares Short Term Bond ETF
 OWN,etf_flag,Inside Ownership 100 ETF
@@ -4067,6 +4069,7 @@ QPX,etf_flag,AdvisorShares Q Dynamic Growth ETF
 QQA,etf_flag,Invesco QQQ Income Advantage ETF
 QQAU,etf_flag,Corgi Growth & Technology 15% Structured Buffer ETF - August Series
 QQBF,etf_flag,FT Vest Nasdaq-100 Quarterly 15 Buffer ETF
+QQDH,etf_flag,Tuttle Capital Innovation 100 Income & Hedge ETF
 QQDN,etf_flag,ProShares UltraShort QQQ Mega
 QQEW,etf_flag,First Trust Nasdaq-100 Select Equal Weight ETF
 QQH,etf_flag,HCM Defender 100 Index ETF
@@ -4567,6 +4570,7 @@ SMMD,etf_flag,iShares Russell 2500 ETF
 SMMU,etf_flag,Short Term Municipal Bond Active Exchange-Traded Fund
 SMMV,etf_flag,iShares MSCI USA Small-Cap Min Vol Factor ETF
 SMN,etf_flag,ProShares UltraShort Materials
+SMNG,etf_flag,xETFs Samsung Group ETF
 SMOG,etf_flag,VanEck Low Carbon Energy ETF
 SMOM,etf_flag,Symmetry Panoramic Sector Momentum ETF
 SMOT,etf_flag,VanEck Morningstar SMID Moat ETF
