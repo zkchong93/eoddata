@@ -40,6 +40,7 @@ ABXB,etf_flag,Abacus Flexible Bond Leaders ETF
 ACBE,etf_flag,Pacer Metaurus Enhanced Core Income Autocallable ETF
 ACBH,etf_flag,Pacer Metaurus High Income Autocallable ETF
 ACEI,etf_flag,Innovator Equity Autocallable Income Strategy ETF
+ACEM,etf_flag,American Century Emerging Markets Insights ETF
 ACEP,etf_flag,ARS Core Equity Portfolio ETF
 ACES,etf_flag,ALPS Clean Energy ETF
 ACGO,etf_flag,Hartford Alpha Capture Growth ETF
@@ -51,6 +52,7 @@ ACII,etf_flag,Innovator Index Autocallable Income Strategy ETF
 ACIN,etf_flag,Hartford Alpha Capture International Equity ETF
 ACIO,etf_flag,Aptus Collared Investment Opportunity ETF
 ACIV,etf_flag,Hartford Alpha Capture International Value ETF
+ACJL,etf_flag,"Buffered Bulldog ETF by C.J. Lawrence, a division of Apollon"
 ACKY,etf_flag,VistaShares Target 15 ACKtivist Distribution ETF
 ACLC,etf_flag,American Century Large Cap Equity ETF
 ACLO,etf_flag,TCW AAA CLO ETF
@@ -100,7 +102,6 @@ AFK,etf_flag,VanEck Africa Index ETF
 AFLG,etf_flag,First Trust Active Factor Large Cap ETF
 AFMC,etf_flag,First Trust Active Factor Mid Cap ETF
 AFOS,etf_flag,ARS Focused Opportunity Strategy ETF
-AFRU,etf_flag,T-REX 2X Long AFRM Daily Target ETF
 AFSC,etf_flag,abrdn Focused U.S. Small Cap Active ETF
 AFSM,etf_flag,First Trust Active Factor Small Cap ETF
 AGEM,etf_flag,abrdn Emerging Markets Dividend Active ETF
@@ -129,6 +130,7 @@ AHYB,etf_flag,American Century Select High Yield ETF
 AHYM,etf_flag,Allspring High Yield Municipal Bond Fund ETF
 AIA,etf_flag,iShares Asia 50 ETF
 AIBD,etf_flag,Direxion Daily AI and Big Data Bear 2X ETF
+AIBE,etf_flag,FINQ CORE U.S. Large Cap AI-Managed Equity ETF
 AIBF,etf_flag,iShares Future AI Beneficiaries ETF
 AIBN,etf_flag,Defiance AI Infrastructure Bond ETF
 AIBU,etf_flag,Direxion Daily AI and Big Data Bull 2X ETF
@@ -296,7 +298,6 @@ ASTN,etf_flag,Defiance Daily Target 2X Short ASTS ETF
 ASTT,etf_flag,Corgi ASTS 2x Daily ETF
 ASTX,etf_flag,Tradr 2X Long ASTS Daily ETF
 ASTY,etf_flag,Defiance Daily Target 2X Long ASTS ETF
-ASUP,etf_flag,T-REX 2X Long ASTS Daily Target ETF
 AT,etf_flag,Defiance Robotics Actuators ETF
 ATC,etf_flag,GraniteShares Autocallable COIN ETF
 ATCL,etf_flag,REX Autocallable Income ETF
@@ -419,6 +420,7 @@ BBJP,etf_flag,JPMorgan BetaBuilders Japan ETF
 BBLB,etf_flag,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF
 BBLS,etf_flag,Munificent Seven ETF
 BBLU,etf_flag,EA Bridgeway Blue Chip ETF
+BBLX,etf_flag,BondBloxx Core Plus ETF
 BBMC,etf_flag,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF
 BBP,etf_flag,Virtus Biotech ETF
 BBRE,etf_flag,JPMorgan BetaBuilders MSCI U.S. REIT ETF
@@ -900,7 +902,7 @@ CNAV,etf_flag,Mohr Company Nav ETF
 CNBS,etf_flag,Amplify Seymour Cannabis ETF
 CNEQ,etf_flag,Alger Concentrated Equity ETF
 CNQQ,etf_flag,Rayliant-ChinaAMC Transformative China Tech ETF
-CNRG,etf_flag,State Street SPDR S&P Kensho Clean Power ETF
+CNRG,etf_flag,State Street SPDR S&P Kensho Grid Innovation ETF
 CNXT,etf_flag,VanEck ChiNext Innovators ETF
 CNYA,etf_flag,iShares MSCI China A ETF
 COAL,etf_flag,Range Global Coal Index ETF
@@ -1165,6 +1167,7 @@ DFIC,etf_flag,Dimensional International Core Equity 2 ETF
 DFII,etf_flag,FT Vest Bitcoin Strategy & Target Income ETF
 DFIP,etf_flag,Dimensional Inflation-Protected Securities ETF
 DFIS,etf_flag,Dimensional International Small Cap ETF
+DFIT,etf_flag,Davidson Intermediate Taxable ETF
 DFIV,etf_flag,Dimensional International Value ETF
 DFJ,etf_flag,WisdomTree Japan SmallCap Fund
 DFLV,etf_flag,Dimensional US Large Cap Value ETF
@@ -1208,7 +1211,6 @@ DIEM,etf_flag,Franklin Emerging Market Core Dividend Tilt Index ETF
 DIG,etf_flag,ProShares Ultra Energy
 DIHP,etf_flag,Dimensional International High Profitability ETF
 DIM,etf_flag,WisdomTree International MidCap Dividend Fund
-DINE,etf_flag,Simplify Tax Aware Diversified Income Strategy ETF
 DINT,etf_flag,Davis Select International ETF
 DIPR,etf_flag,Corgi Space & Satellite Communications ETF
 DIPS,etf_flag,YieldMax Short NVDA Option Income Strategy ETF
@@ -1236,6 +1238,7 @@ DJTU,etf_flag,T-REX 2X Long DJT Daily Target ETF
 DJUL,etf_flag,FT Vest U.S. Equity Deep Buffer ETF - July
 DJUN,etf_flag,FT Vest U.S. Equity Deep Buffer ETF - June
 DLAG,etf_flag,FT Vest U.S. Equity Dual Directional Buffer ETF - August
+DLAY,etf_flag,Tuttle Capital AI Bottleneck ETF
 DLCU,etf_flag,U.S. Large Company Portfolio: ETF Class Shares
 DLFE,etf_flag,FT Vest U.S. Equity Dual Directional Buffer ETF - February
 DLLL,etf_flag,GraniteShares 2x Long DELL Daily ETF
@@ -1398,7 +1401,7 @@ EFAX,etf_flag,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF
 EFFE,etf_flag,Harbor Osmosis Emerging Markets Resource Efficient ETF
 EFFI,etf_flag,Harbor Osmosis International Resource Efficient ETF
 EFG,etf_flag,iShares MSCI EAFE Growth ETF
-EFIV,etf_flag,State Street SPDR S&P 500 ESG ETF
+EFIV,etf_flag,State Street SPDR S&P 500 Scored and Screened ETF
 EFNL,etf_flag,iShares MSCI Finland ETF
 EFO,etf_flag,ProShares Ultra MSCI EAFE
 EFRA,etf_flag,iShares Environmental Infrastructure and Industrials ETF
@@ -1448,6 +1451,7 @@ EMGF,etf_flag,iShares Emerging Markets Equity Factor ETF
 EMHC,etf_flag,State Street SPDR Bloomberg Emerging Markets USD Bond ETF
 EMHY,etf_flag,iShares J.P. Morgan EM High Yield Bond ETF
 EMIF,etf_flag,iShares Emerging Markets Infrastructure ETF
+EMIL,etf_flag,VanEck EM Focus Inflation Bond ETF
 EMJL,etf_flag,Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series
 EMJN,etf_flag,Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series
 EMKT,etf_flag,Lazard Emerging Markets Opportunities ETF
@@ -1844,6 +1848,7 @@ FMED,etf_flag,Fidelity Disruptive Medicine ETF
 FMET,etf_flag,Fidelity Metaverse ETF
 FMF,etf_flag,First Trust Managed Futures Strategy Fund
 FMHI,etf_flag,First Trust Municipal High Income ETF
+FMIG,etf_flag,FMI Global Equity ETF
 FMKT,etf_flag,The Free Markets ETF
 FMNY,etf_flag,First Trust New York Municipal High Income ETF
 FMQQ,etf_flag,FMQQ The Next Frontier Internet ETF
@@ -1926,7 +1931,7 @@ FTCB,etf_flag,First Trust Core Investment Grade ETF
 FTCE,etf_flag,First Trust New Constructs Core Earnings Leaders ETF
 FTCS,etf_flag,First Trust Capital Strength ETF
 FTDS,etf_flag,First Trust Dividend Strength ETF
-FTEC,etf_flag,Fidelity MSCI Information Technology Index ETF
+FTEC,etf_flag,ETF
 FTG,etf_flag,FullerThaler Behavioral Growth ETF
 FTGC,etf_flag,First Trust Global Tactical Commodity Strategy Fund
 FTGS,etf_flag,First Trust Growth Strength ETF
@@ -2585,6 +2590,8 @@ INEQ,etf_flag,Columbia International Equity Income ETF
 INFH,etf_flag,Defiance Daily Target 2X Long INFQ ETF
 INFL,etf_flag,Horizon Kinetics Inflation Beneficiaries ETF
 INFO,etf_flag,Harbor PanAgora Dynamic Large Cap Core ETF
+INJC,etf_flag,Canary Staked INJ ETF
+INK,etf_flag,AB Equity Premium Income ETF
 INKM,etf_flag,State Street Income Allocation ETF
 INMU,etf_flag,iShares Intermediate Muni Income Active ETF
 INOV,etf_flag,Innovator International Developed Power Buffer ETF  November
@@ -2693,7 +2700,7 @@ IVVW,etf_flag,iShares IVV Premium Income+ ETF
 IVW,etf_flag,iShares S&P 500 Growth ETF
 IWB,etf_flag,iShares Russell 1000 ETF
 IWC,etf_flag,iShares Microcap ETF
-IWD,etf_flag,iShares Russell 1000 Value ETF
+IWD,etf_flag,iShares Russell 1000 Value Index Fund
 IWF,etf_flag,iShares Russell 1000 Growth Fund
 IWFG,etf_flag,NYLIM Winslow Focused Large Cap Growth ETF
 IWL,etf_flag,iShares Russell Top 200 ETF
@@ -2728,7 +2735,7 @@ IYM,etf_flag,iShares U.S. Basic Materials ETF
 IYR,etf_flag,iShares U.S. Real Estate ETF
 IYRI,etf_flag,NEOS Real Estate High Income ETF
 IYT,etf_flag,iShares U.S. Transportation ETF
-IYW,etf_flag,iShares U.S. Technology ETF
+IYW,etf_flag,iShares Dow Jones U.S. Technology Sector Index Fund
 IYY,etf_flag,iShares Dow Jones U.S. ETF
 IYZ,etf_flag,iShares U.S. Telecommunications ETF
 IZRL,etf_flag,ARK Israel Innovative Technology ETF
@@ -3021,7 +3028,6 @@ LFSC,etf_flag,F/m Emerald Life Sciences Innovation ETF
 LGDS,etf_flag,JPMorgan Fundamental Data Science Large Growth ETF
 LGDX,etf_flag,Intech S&P Large Cap Diversified Alpha ETF
 LGH,etf_flag,HCM Defender 500 Index ETF
-LGHT,etf_flag,Langar Global HealthTech ETF
 LGLV,etf_flag,State Street SPDR US Large Cap Low Volatility Index ETF
 LGOV,etf_flag,First Trust Long Duration Opportunities ETF
 LGRO,etf_flag,Level Four Large Cap Growth Active ETF
@@ -3065,7 +3071,6 @@ LOUP,etf_flag,Innovator Deepwater Frontier Tech ETF
 LOWV,etf_flag,AB US Low Volatility Equity ETF
 LPRE,etf_flag,Long Pond Real Estate Select ETF
 LPSV,etf_flag,Lone Peak SMID Value ETF
-LQ,etf_flag,Simplify Tax Aware Alternatives ETF
 LQAI,etf_flag,LG QRAFT AI-Powered U.S. Large Cap Core ETF
 LQD,etf_flag,iShares iBoxx $ Investment Grade Corporate Bond ETF
 LQDB,etf_flag,iShares BBB Rated Corporate Bond ETF
@@ -3564,7 +3569,6 @@ NVYY,etf_flag,GraniteShares YieldBOOST NVDA ETF
 NXPG,etf_flag,Leverage Shares 2X Long NXPI Daily ETF
 NXTE,etf_flag,AXS Green Alpha ETF
 NXTG,etf_flag,First Trust Indxx NextG ETF
-NXTI,etf_flag,Simplify Next Intangible Core Index ETF
 NXUS,etf_flag,Nuveen International Aggregate Bond ETF
 NYF,etf_flag,iShares New York Muni Bond ETF
 NYM,etf_flag,AB New York Intermediate Municipal ETF
@@ -3740,7 +3744,6 @@ PCOV,etf_flag,Principal Equity Premium Income ETF
 PCPC,etf_flag,Porter & Company Property & Casualty Index ETF
 PCPI,etf_flag,PIMCO Inflation PLUS Active Exchange-Traded Fund
 PCPP,etf_flag,Porter & Company Porter Portfolio Index ETF
-PCR,etf_flag,Simplify VettaFi Private Credit Strategy ETF
 PCS,etf_flag,PGIM Corporate Bond 0-5 Year ETF
 PCSG,etf_flag,Polen 5Perspectives Small-Mid Growth ETF
 PCY,etf_flag,Invesco Emerging Markets Sovereign Debt ETF
@@ -4104,7 +4107,7 @@ QSPT,etf_flag,FT Vest Nasdaq-100 Buffer ETF - September
 QSU,etf_flag,Defiance Daily Target 2X Long QS ETF
 QTAC,etf_flag,Q3 All-Season Tactical Advantage ETF
 QTAP,etf_flag,Innovator Growth Accelerated Plus ETF - April
-QTEC,etf_flag,First Trust NASDAQ-100-Technology Sector Index Fund
+QTEC,etf_flag,First Trust NASDAQ-100- Technology Index Fund
 QTJA,etf_flag,Innovator Growth Accelerated Plus ETF - January
 QTJL,etf_flag,Innovator Growth Accelerated Plus ETF - July
 QTOC,etf_flag,Innovator Growth Accelerated Plus ETF - October
@@ -4169,7 +4172,9 @@ RDVY,etf_flag,First Trust Rising Dividend Achievers ETF
 RDWU,etf_flag,T-REX 2X Long RDW Daily Target ETF
 RDYY,etf_flag,YieldMax RDDT Option Income Strategy ETF
 REAI,etf_flag,Intelligent Real Estate ETF
+RECD,etf_flag,Columbia RECS Laddered Deep Buffer ETF
 RECI,etf_flag,Columbia Research Enhanced Core Premium Income ETF
+RECM,etf_flag,Columbia RECS Laddered Moderate Buffer ETF
 RECS,etf_flag,Columbia Research Enhanced Core ETF
 REET,etf_flag,iShares Global REIT ETF
 REFA,etf_flag,Columbia Research Enhanced International Equity ETF
@@ -4341,7 +4346,6 @@ SBIL,etf_flag,Simplify Government Money Market ETF
 SBIO,etf_flag,ALPS Medical Breakthroughs ETF
 SBIT,etf_flag,ProShares UltraShort Bitcoin ETF
 SBND,etf_flag,Columbia Short Duration Bond ETF
-SBTU,etf_flag,T-REX 2X Long SBET Daily Target ETF
 SCA,etf_flag,GraniteShares Autocallable SMCI ETF
 SCAP,etf_flag,Infrastructure Capital Small Cap Income ETF
 SCAU,etf_flag,Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series
@@ -4488,6 +4492,7 @@ SIO,etf_flag,Touchstone Strategic Income ETF
 SIOO,etf_flag,VistaShares Target 15 S&P 100 Distribution ETF
 SITX,etf_flag,Tradr 2X Long SITM Daily ETF
 SIVR,etf_flag,abrdn Physical Silver Shares ETF
+SIX,etf_flag,Global X Magnificent Six ETF
 SIXA,etf_flag,ETC 6 Meridian Mega Cap Equity ETF
 SIXD,etf_flag,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF
 SIXF,etf_flag,AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF
@@ -4506,9 +4511,7 @@ SJNK,etf_flag,State Street SPDR Bloomberg Short Term High Yield Bond ETF
 SK,etf_flag,Corgi SK hynix 2x Daily ETF
 SKDD,etf_flag,GraniteShares 2x Short SK Hynix Daily ETF
 SKF,etf_flag,ProShares UltraShort Financials
-SKHA,etf_flag,Tradr 2X Long SK hynix Daily ETF
 SKHL,etf_flag,Direxion Daily SK Hynix Bull 2X ETF
-SKHN,etf_flag,Tradr 2X Short SK hynix Daily ETF
 SKHQ,etf_flag,Leverage Shares 2X Short Sk Hynix Daily ETF
 SKHU,etf_flag,ProShares Ultra SK hynix
 SKHX,etf_flag,Leverage Shares 2X Long SK Hynix Daily ETF
@@ -4616,13 +4619,13 @@ SOXS,etf_flag,Direxion Daily Semiconductor Bear 3X ETF
 SOXX,etf_flag,iShares PHLX SOX Semiconductor Sector Index Fund
 SOXY,etf_flag,YieldMax Target 12 Semiconductor Option Income ETF
 SOYB,etf_flag,Teucrium Soybean Fund ETV
-SPAB,etf_flag,State Street SPDR Portfolio Aggregate Bond ETF
+SPAB,etf_flag,State Street SPDR Portfolio Aggregate Bond Index ETF
 SPAL,etf_flag,GraniteShares 2x Long SpaceX Daily ETF
 SPAM,etf_flag,Themes Cybersecurity ETF
 SPAQ,etf_flag,Horizon Kinetics SPAC Active ETF
 SPAX,etf_flag,T-REX 2X Long SPCX Daily Target ETF
 SPBC,etf_flag,Simplify US Equity PLUS Bitcoin Strategy ETF
-SPBO,etf_flag,State Street SPDR Portfolio Corporate Bond ETF
+SPBO,etf_flag,State Street SPDR Portfolio Corporate Bond Index ETF
 SPBU,etf_flag,AllianzIM Buffer15 Uncapped Allocation ETF
 SPBW,etf_flag,AllianzIM Buffer20 Allocation ETF
 SPBX,etf_flag,AllianzIM 6 Month Buffer10 Allocation ETF
@@ -4650,31 +4653,31 @@ SPGP,etf_flag,Invesco S&P 500 GARP ETF
 SPHB,etf_flag,Invesco S&P 500 High Beta ETF
 SPHD,etf_flag,Invesco S&P 500 High Dividend Low Volatility ETF
 SPHQ,etf_flag,Invesco S&P 500 Quality ETF
-SPHY,etf_flag,State Street SPDR Portfolio High Yield Bond ETF
-SPIB,etf_flag,State Street SPDR Portfolio Intermediate Term Corporate Bond ETF
+SPHY,etf_flag,State Street SPDR Portfolio High Yield Bond Index ETF
+SPIB,etf_flag,State Street SPDR Portfolio Intermediate Term Corporate Bond Index ETF
 SPIN,etf_flag,State Street US Equity Premium Income ETF
-SPIP,etf_flag,State Street SPDR Portfolio TIPS ETF
+SPIP,etf_flag,State Street SPDR Portfolio TIPS Index ETF
 SPIT,etf_flag,F/m Emerald Special Situations ETF
-SPLB,etf_flag,State Street SPDR Portfolio Long Term Corporate Bond ETF
+SPLB,etf_flag,State Street SPDR Portfolio Long Term Corporate Bond Index ETF
 SPLS,etf_flag,PIMCO US Stocks PLUS Active Bond Exchange-Traded Fund
 SPLV,etf_flag,Invesco S&P 500 Low Volatility ETF
-SPMB,etf_flag,State Street SPDR Portfolio Mortgage Backed Bond ETF
+SPMB,etf_flag,State Street SPDR Portfolio Mortgage Backed Bond Index ETF
 SPMD,etf_flag,State Street SPDR Portfolio S&P 400 Mid Cap ETF
 SPMO,etf_flag,Invesco S&P 500 Momentum ETF
 SPOG,etf_flag,Leverage Shares 2X Long SPOT Daily ETF
 SPPP,etf_flag,Sprott Physical Platinum and Palladium Trust
 SPRE,etf_flag,SP Funds S&P Global REIT Sharia ETF
 SPRX,etf_flag,Spear Alpha ETF
-SPSB,etf_flag,State Street SPDR Portfolio Short Term Corporate Bond ETF
+SPSB,etf_flag,State Street SPDR Portfolio Short Term Corporate Bond Index ETF
 SPSK,etf_flag,SP Funds Dow Jones Global Sukuk ETF
 SPSM,etf_flag,State Street SPDR Portfolio S&P 600 Small Cap ETF
-SPTB,etf_flag,State Street SPDR Portfolio Treasury ETF
+SPTB,etf_flag,State Street SPDR Portfolio Treasury Index ETF
 SPTE,etf_flag,SP Funds S&P Global Technology ETF
-SPTI,etf_flag,State Street SPDR Portfolio Intermediate Term Treasury ETF
-SPTL,etf_flag,State Street SPDR Portfolio Long Term Treasury ETF
+SPTI,etf_flag,State Street SPDR Portfolio Intermediate Term Treasury Index ETF
+SPTL,etf_flag,State Street SPDR Portfolio Long Term Treasury Index ETF
 SPTM,etf_flag,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF
-SPTS,etf_flag,State Street SPDR Portfolio Short Term Treasury ETF
-SPTU,etf_flag,State Street SPDR Portfolio Ultra Short T-Bill ETF
+SPTS,etf_flag,State Street SPDR Portfolio Short Term Treasury Index ETF
+SPTU,etf_flag,State Street SPDR Portfolio Ultra Short T-Bill Index ETF
 SPUC,etf_flag,Simplify US Equity Income ETF
 SPUS,etf_flag,SP Funds S&P 500 Sharia Industry Exclusions ETF
 SPUT,etf_flag,Innovator Equity Premium Income - Daily PutWrite ETF
@@ -4863,10 +4866,8 @@ TEQI,etf_flag,T. Rowe Price Equity Income ETF
 TERC,etf_flag,Corgi TER 2x Daily ETF
 TERG,etf_flag,Leverage Shares 2X Long TER Daily ETF
 TESC,etf_flag,Corgi TSLA 2x Daily ETF
-TESL,etf_flag,Simplify Volt TSLA Revolution ETF
 TEST,etf_flag,YieldMax TSLA Performance & Distribution Target 25 ETF
 TETH,etf_flag,21Shares Ethereum ETF
-TEUP,etf_flag,T-REX 2X Long TE Daily Target ETF
 TEXN,etf_flag,iShares Texas Equity ETF
 TEXU,etf_flag,Direxion Daily Energy Top 5 Bull 2X ETF
 TEXX,etf_flag,Horizon Kinetics Texas ETF
@@ -4883,6 +4884,7 @@ TGLR,etf_flag,Wedbush LAFFER TENGLER New Era Value ETF
 TGRT,etf_flag,T. Rowe Price Growth ETF
 TGRW,etf_flag,T. Rowe Price Growth Stock ETF
 TGRZ,etf_flag,China AI Tigers LLM ETF
+THCR,etf_flag,THOR Conservative Risk Dynamic ETF
 THD,etf_flag,iShares MSCI Thailand ETF
 THEQ,etf_flag,T. Rowe Price Hedged Equity ETF
 THIR,etf_flag,THOR Index Rotation ETF
@@ -5200,7 +5202,6 @@ USCL,etf_flag,iShares Climate Conscious & Transition MSCI USA ETF
 USD,etf_flag,ProShares Ultra Semiconductors
 USDU,etf_flag,WisdomTree Bloomberg U.S. Dollar Bullish Fund
 USDX,etf_flag,SGI Enhanced Core ETF
-USE,etf_flag,USCF Energy Commodity Strategy Absolute Return Fund
 USEP,etf_flag,Innovator U.S. Equity Ultra Buffer ETF - September
 USEW,etf_flag,Cambria US EW ETF
 USFE,etf_flag,First Eagle US Equity ETF
@@ -5406,6 +5407,7 @@ VTI,etf_flag,Vanguard Morningstar Total Stock Market ETF
 VTIP,etf_flag,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares
 VTP,etf_flag,Vanguard Total Inflation-Protected Securities ETF
 VTV,etf_flag,Vanguard Morningstar Value ETF
+VTVX,etf_flag,XFUNDS Value Income ETF
 VTWG,etf_flag,Vanguard Russell 2000 Growth ETF
 VTWO,etf_flag,Vanguard Russell 2000 ETF
 VTWV,etf_flag,Vanguard Russell 2000 Value ETF
@@ -5435,9 +5437,9 @@ WARP,etf_flag,VanEck Space ETF
 WATS,etf_flag,Corgi Battery Energy Storage Systems ETF
 WBEM,etf_flag,William Blair Emerging Markets Equity ETF
 WBIE,etf_flag,William Blair International Equity ETF
-WBIF,etf_flag,WBI BullBear Value 3000 ETF
-WBIG,etf_flag,WBI BullBear Yield 3000 ETF
-WBIL,etf_flag,WBI BullBear Quality 3000 ETF
+WBIF,etf_flag,WBI Fundamental Factors Hedged ETF
+WBIG,etf_flag,WBI Income Generators Hedged ETF
+WBIL,etf_flag,WBI Trend Leaders Hedged ETF
 WBIY,etf_flag,WBI Power Factor High Dividend ETF
 WBMO,etf_flag,VanEck Wealth Builder ETF
 WCAP,etf_flag,WarCap Unconstrained Equity ETF
@@ -5498,7 +5500,6 @@ WSPC,etf_flag,WisdomTree Space Economy Fund
 WTAI,etf_flag,WisdomTree Artificial Intelligence and Innovation Fund
 WTAL,etf_flag,WisdomTree Global Alpha Fund
 WTBN,etf_flag,WisdomTree Bianco Total Return Fund
-WTIB,etf_flag,USCF Oil Plus Bitcoin Strategy Fund
 WTID,etf_flag,MicroSectors Energy 3X Inverse Leveraged ETNs
 WTIP,etf_flag,WisdomTree Inflation Plus Fund
 WTIU,etf_flag,MicroSectors Energy 3X Leveraged ETNs
