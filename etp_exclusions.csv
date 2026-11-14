@@ -725,6 +725,7 @@ BUYZ,etf_flag,Franklin Disruptive Commerce ETF
 BUZZ,etf_flag,VanEck Social Sentiment ETF
 BVAL,etf_flag,Bluemonte Large Cap Value ETF
 BWET,etf_flag,Breakwave Tanker Shipping ETF
+BWLB,etf_flag,Brandywine Large Cap ETF
 BWQG,etf_flag,BWM Quality Growth ETF
 BWTG,etf_flag,Brendan Wood TopGun Index ETF
 BWX,etf_flag,State Street SPDR Bloomberg International Treasury Bond ETF
@@ -1663,10 +1664,8 @@ FDD,etf_flag,First Trust STOXX European Select Dividend Index Fund
 FDEC,etf_flag,FT Vest U.S. Equity Buffer ETF - December
 FDEM,etf_flag,Fidelity Emerging Markets Multifactor ETF
 FDEV,etf_flag,Fidelity International Multifactor ETF
-FDFF,etf_flag,Fidelity Disruptive Finance ETF
 FDG,etf_flag,American Century Focused Dynamic Growth ETF
 FDHY,etf_flag,Fidelity Enhanced High Yield ETF
-FDIF,etf_flag,Fidelity Disruptors ETF
 FDIG,etf_flag,Fidelity Crypto Industry and Digital Payments ETF
 FDIQ,etf_flag,Invesco Bloomberg Financial Data Providers ETF
 FDIS,etf_flag,Fidelity MSCI Consumer Discretionary Index ETF
@@ -1846,8 +1845,6 @@ FMB,etf_flag,First Trust Managed Municipal ETF
 FMCE,etf_flag,FM Compounders Equity ETF
 FMCX,etf_flag,FM Focus Equity ETF
 FMDE,etf_flag,Fidelity Enhanced Mid Cap Core ETF
-FMED,etf_flag,Fidelity Disruptive Medicine ETF
-FMET,etf_flag,Fidelity Metaverse ETF
 FMF,etf_flag,First Trust Managed Futures Strategy Fund
 FMHI,etf_flag,First Trust Municipal High Income ETF
 FMIG,etf_flag,FMI Global Equity ETF
@@ -1889,7 +1886,6 @@ FPAS,etf_flag,FPA Short Duration Government ETF
 FPE,etf_flag,First Trust Preferred Securities and Income ETF ETF
 FPEI,etf_flag,First Trust Institutional Preferred Securities and Income ETF
 FPFD,etf_flag,Fidelity Preferred Securities & Income ETF
-FPRO,etf_flag,Fidelity Real Estate Investment ETF
 FPSX,etf_flag,Leverage Shares 2X Long FPS Daily ETF
 FPWR,etf_flag,First Trust EIP Power Solutions ETF
 FPX,etf_flag,First Trust US Equity Opportunities ETF
@@ -5219,7 +5215,6 @@ USEP,etf_flag,Innovator U.S. Equity Ultra Buffer ETF - September
 USEW,etf_flag,Cambria US EW ETF
 USFE,etf_flag,First Eagle US Equity ETF
 USFR,etf_flag,WisdomTree Floating Rate Treasury Fund
-USG,etf_flag,USCF Gold Strategy Plus Income Fund
 USGG,etf_flag,Leverage Shares 2X Long USAR Daily ETF
 USGX,etf_flag,Corgi U.S. Growth 2x Daily ETF
 USHY,etf_flag,iShares Broad USD High Yield Corporate Bond ETF
