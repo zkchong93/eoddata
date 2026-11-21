@@ -22,6 +22,7 @@ AAPX,etf_flag,T-Rex 2X Long Apple Daily Target ETF
 AAPY,etf_flag,Kurv Yield Premium Strategy Apple (AAPL) ETF
 AAUA,etf_flag,Alpha Architect US Equity 3 ETF
 AAUB,etf_flag,Alpha Architect US Equity 4 ETF
+AAUD,etf_flag,Alpha Architect US Equity 5 ETF
 AAUS,etf_flag,Alpha Architect US Equity ETF
 AAVM,etf_flag,Alpha Architect Global Factor Equity ETF
 AAXJ,etf_flag,iShares MSCI All Country Asia ex Japan ETF
@@ -2669,6 +2670,7 @@ ISHG,etf_flag,iShares 1-3 Year International Treasury Bond ETF
 ISHP,etf_flag,First Trust S-Network E-Commerce ETF
 ISMD,etf_flag,Inspire Small/Mid Cap ETF
 ISMF,etf_flag,iShares Managed Futures Active ETF
+ISMH,etf_flag,xETFs International Semiconductor ETF
 ISPY,etf_flag,ProShares S&P 500 High Income ETF
 ISRA,etf_flag,VanEck Israel ETF
 ISRL,etf_flag,Defiance KSM Israel 120 ETF
