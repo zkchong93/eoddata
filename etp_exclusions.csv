@@ -141,6 +141,7 @@ AIEQ,etf_flag,Amplify AI Powered Equity ETF
 AIFD,etf_flag,TCW Artificial Intelligence ETF
 AIFR,etf_flag,Defiance Global Foundries ETF
 AIHY,etf_flag,Defiance AI Hyperscale Leaders ETF
+AIL,etf_flag,GraniteShares 2x Long Anthropic Daily ETF
 AIMG,etf_flag,Defiance AI Magnificent 10 ETF
 AIMS,etf_flag,Acuitas Small Cap Active ETF
 AINF,etf_flag,Defiance Inference AI Chip ETF
@@ -170,6 +171,7 @@ ALAI,etf_flag,Alger AI Enablers & Adopters ETF
 ALDB,etf_flag,Aptus Laddered Deep Buffer ETF
 ALIL,etf_flag,Argent Focused Small Cap ETF
 ALLW,etf_flag,State Street Bridgewater All Weather ETF
+ALLZ,etf_flag,Zacks All-Cap Core ETF
 ALRG,etf_flag,Allspring LT Large Core ETF
 ALTL,etf_flag,Pacer Lunt Large Cap Alternator ETF
 ALTY,etf_flag,Global X Alternative Income ETF
@@ -207,11 +209,23 @@ AMZU,etf_flag,Direxion Daily AMZN Bull 2X ETF
 AMZW,etf_flag,Roundhill AMZN WeeklyPay ETF
 AMZY,etf_flag,YieldMax AMZN Option Income Strategy ETF
 AMZZ,etf_flag,GraniteShares 2x Long AMZN Daily ETF
+ANDD,etf_flag,Leverage Shares 2X Short Anthropic Daily ETF
 ANEL,etf_flag,Defiance Daily Target 2x Long ANET ETF
 ANG,etf_flag,Corgi FTSE Fallen Angels Bond ETF
 ANGL,etf_flag,VanEck Fallen Angel High Yield Bond ETF
 ANGU,etf_flag,SEI Ang Research Enhanced U.S. Large Cap ETF
+ANS,etf_flag,GraniteShares 2x Short Anthropic Daily ETF
+ANSS,etf_flag,Leverage Shares 1X Short Anthropic Daily ETF
+ANTC,etf_flag,Defiance 2X ANT Long Daily ETF
+ANTD,etf_flag,Direxion Daily Anthropic Bear 2X ETF
+ANTO,etf_flag,Direxion Daily Anthropic Bull 2X ETF
+ANTQ,etf_flag,Defiance 2X ANT Short Daily ETF
+ANTT,etf_flag,Tradr 2X Long Anthropic Daily ETF
+ANTU,etf_flag,ProShares Ultra Anthropic
 ANTW,etf_flag,Anthropic AI Lab Ecosystem ETF
+ANTY,etf_flag,ProShares UltraShort Anthropic
+ANTZ,etf_flag,Tradr 2X Short Anthropic Daily ETF
+ANUU,etf_flag,Leverage Shares 2X Long Anthropic Daily ETF
 ANV,etf_flag,GraniteShares Autocallable NVDA ETF
 AOA,etf_flag,iShares Core 80/20 Aggressive Allocation ETF
 AOCT,etf_flag,Innovator Equity Defined Protection ETF - 2 Yr to October 2028
@@ -304,6 +318,7 @@ AT,etf_flag,Defiance Robotics Actuators ETF
 ATC,etf_flag,GraniteShares Autocallable COIN ETF
 ATCL,etf_flag,REX Autocallable Income ETF
 ATFV,etf_flag,Alger 35 ETF
+ATHX,etf_flag,2x Anthropic ETF
 ATMP,etn_name,iPath Select MLP ETN
 ATTR,etf_flag,Arin Tactical Tail Risk ETF
 AUAU,etf_flag,Global X Gold Miners ETF
@@ -879,6 +894,7 @@ CIR,etf_flag,Corgi CRCL 2x Daily ETF
 CIVG,etf_flag,Corgi 1-5 Year Investment Grade Corporate Bond ETF
 CJUL,etf_flag,Corgi U.S. Equities 15% Structured Buffer ETF - July Series
 CJUN,etf_flag,Corgi U.S. Equities 15% Structured Buffer ETF - June Series
+CLAU,etf_flag,T-REX 2X Long Anthropic Daily Target ETF
 CLCG,etf_flag,Crossmark Large Cap Growth ETF
 CLCV,etf_flag,Crossmark Large Cap Value ETF
 CLIM,etf_flag,Climate Global - Climate Resilient REIT Index ETF
@@ -936,7 +952,6 @@ COPJ,etf_flag,Sprott Junior Copper Miners ETF
 COPP,etf_flag,Sprott Copper Miners ETF
 COPX,etf_flag,Global X Copper Miners ETF
 COPY,etf_flag,"Tweedy, Browne Insider + Value ETF"
-COPZ,etf_flag,Defiance Daily Target 2X Long Copper Miners ETF
 CORB,etf_flag,AB Core Bond ETF
 CORD,etf_flag,T-REX 2X Inverse CRWV Daily Target ETF
 CORN,etf_flag,Teucrium Corn Fund ETV
@@ -952,7 +967,6 @@ COZX,etf_flag,Tradr 2X Long CORZ Daily ETF
 CPAG,etf_flag,F/m Compoundr U.S. Aggregate Bond ETF
 CPAI,etf_flag,Counterpoint Quantitative Equity ETF
 CPER,etf_flag,United States Copper Index Fund ETV
-CPHY,etf_flag,F/m Compoundr High Yield Bond ETF
 CPII,etf_flag,American Beacon Ionic Inflation Protection ETF
 CPLB,etf_flag,NYLIM MacKay Core Plus Bond ETF
 CPLS,etf_flag,AB Core Plus Bond ETF
@@ -1227,6 +1241,7 @@ DIPS,etf_flag,YieldMax Short NVDA Option Income Strategy ETF
 DISK,etf_flag,Tema Memory ETF
 DISV,etf_flag,Dimensional International Small Cap Value ETF
 DIV,etf_flag,Global X Super Dividend ETF
+DIVA,etf_flag,AB Equity Income ETF
 DIVB,etf_flag,iShares Core Dividend ETF
 DIVD,etf_flag,Altrius Global Dividend ETF
 DIVE,etf_flag,Dana Concentrated Dividend ETF
@@ -1488,6 +1503,7 @@ ENFR,etf_flag,Alerian Energy Infrastructure ETF
 ENHE,etf_flag,iShares Enhanced Emerging Markets Active ETF
 ENHI,etf_flag,iShares Enhanced International Active ETF
 ENHU,etf_flag,iShares Enhanced Large Cap Core Active ETF
+ENHV,etf_flag,iShares Enhanced Large Cap Value Active ETF
 ENOR,etf_flag,iShares MSCI Norway ETF
 ENRG,etf_flag,Ninepoint North American Energy Independence ETF
 ENTL,etf_flag,Leverage Shares 2X Long ENTG Daily ETF
@@ -2702,6 +2718,7 @@ IUSG,etf_flag,iShares Core S&P U.S. Growth ETF
 IUSV,etf_flag,iShares Core S&P U.S. Value ETF
 IVAL,etf_flag,Alpha Architect International Quantitative Value ETF
 IVE,etf_flag,iShares S&P 500 Value ETF
+IVEA,etf_flag,Dan IVES Wedbush AI Autocallable Income ETF
 IVEP,etf_flag,Dan IVES Wedbush AI Power & Infrastructure ETF
 IVES,etf_flag,Dan IVES Wedbush AI Revolution ETF
 IVLU,etf_flag,iShares MSCI Intl Value Factor ETF
@@ -2933,7 +2950,6 @@ KDEF,etf_flag,PLUS Korea Defense Industry Index ETF
 KDRN,etf_flag,Kingsbarn Tactical Bond ETF
 KDVD,etf_flag,Keeley Dividend ETF
 KEAT,etf_flag,Keating Active ETF
-KEEX,etf_flag,Defiance Daily Target 2x Long KEEL ETF
 KEMQ,etf_flag,KraneShares Public-Private Emerging Markets Internet and Technology ETF
 KEMX,etf_flag,KraneShares MSCI Emerging Markets ex China Index ETF
 KEO,etf_flag,Kurv Equity Option Income ETF
@@ -4185,7 +4201,6 @@ RBLU,etf_flag,T-REX 2X Long RBLX Daily Target ETF
 RBLY,etf_flag,YieldMax RBLX Option Income Strategy ETF
 RBTX,etf_flag,iShares Future Robotics and Related Technologies Active ETF
 RBUF,etf_flag,Innovator U.S. Small Cap 10 Buffer ETF - Quarterly
-RCAX,etf_flag,Defiance Daily Target 2x Long RCAT ETF
 RCGE,etf_flag,RockCreek Global Equality ETF
 RCLO,etf_flag,Reckoner BBB-B CLO ETF
 RCLR,etf_flag,Reckoner BBB-B CLO Reinvesting ETF
@@ -4259,7 +4274,6 @@ RJDI,etf_flag,RJ Eagle GCM Dividend Select Income ETF
 RJMI,etf_flag,RJ Eagle Municipal Income ETF
 RJVI,etf_flag,RJ Eagle Vertical Income ETF
 RKLX,etf_flag,Defiance Daily Target 2X Long RKLB ETF
-RKNG,etf_flag,Defiance Retail Kings ETF
 RKSG,etf_flag,Ruk Strategic Growth ETF
 RKX,etf_flag,Corgi RKLB 2x Daily ETF
 RLY,etf_flag,State Street Multi-Asset Real Return ETF
@@ -4749,7 +4763,6 @@ SRET,etf_flag,Global X SuperDividend REIT ETF
 SRHQ,etf_flag,SRH U.S. Quality GARP ETF
 SRHR,etf_flag,SRH REIT Covered Call ETF
 SRLN,etf_flag,State Street Blackstone Senior Loan ETF
-SROI,etf_flag,Calamos Antetokounmpo Global Sustainable Equities ETF
 SRS,etf_flag,ProShares UltraShort Real Estate
 SRTY,etf_flag,ProShares UltraPro Short Russell2000
 SRVR,etf_flag,Pacer Data & Infrastructure Real Estate ETF
@@ -5750,6 +5763,7 @@ XYZG,etf_flag,Leverage Shares 2X Long XYZ Daily ETF
 XYZY,etf_flag,YieldMax XYZ Option Income Strategy ETF
 YALL,etf_flag,Truth Social God Bless America ETF
 YANG,etf_flag,Direxion Daily FTSE China Bear 3X ETF
+YANT,etf_flag,YieldMax ANT Option Income Strategy ETF
 YASX,etf_flag,Yorkville America Space Index ETF
 YBIT,etf_flag,YieldMax Bitcoin Option Income Strategy ETF
 YBST,etf_flag,GraniteShares YieldBoost Single Stock Universe ETF
@@ -5794,6 +5808,7 @@ ZALT,etf_flag,Innovator U.S. Equity 10 Buffer ETF - Quarterly
 ZAP,etf_flag,Global X U.S. Electrification ETF
 ZAPR,etf_flag,Innovator Equity Defined Protection ETF - 1 Yr April
 ZAUG,etf_flag,Innovator Equity Defined Protection ETF - 1 Yr August
+ZCAP,etf_flag,Zacks Small-Cap Core ETF
 ZCBA,etf_flag,Global X Zero Coupon Bond 2030 ETF
 ZCBB,etf_flag,Global X Zero Coupon Bond 2031 ETF
 ZCBC,etf_flag,Global X Zero Coupon Bond 2032 ETF
@@ -5805,6 +5820,7 @@ ZDAY,etf_flag,Bitwise AI Cyber Defense ETF
 ZDEK,etf_flag,Innovator Equity Defined Protection ETF - 1 Yr December
 ZDIS,etf_flag,Virtus Zevenbergen Discovery Growth ETF
 ZECP,etf_flag,Zacks Earnings Consistent Portfolio ETF
+ZECX,etf_flag,2x ZCSH ETF
 ZFEB,etf_flag,Innovator Equity Defined Protection ETF - 1 Yr February
 ZHDG,etf_flag,ZEGA Buy and Hedge ETF
 ZHOG,etf_flag,F/m Opportunistic Income ETF
