@@ -101,6 +101,7 @@ AFIF,etf_flag,Anfield Universal Fixed Income ETF
 AFIX,etf_flag,Allspring Broad Market Core Bond ETF
 AFK,etf_flag,VanEck Africa Index ETF
 AFLG,etf_flag,First Trust Active Factor Large Cap ETF
+AFLR,etf_flag,Aligned Pathway Flourishing ETF
 AFMC,etf_flag,First Trust Active Factor Mid Cap ETF
 AFOS,etf_flag,ARS Focused Opportunity Strategy ETF
 AFSC,etf_flag,abrdn Focused U.S. Small Cap Active ETF
@@ -4659,7 +4660,6 @@ SOLM,etf_flag,Amplify Solana 3% Monthly Option Income ETF
 SOLT,etf_flag,2x Solana ETF
 SOLZ,etf_flag,Solana ETF
 SOUX,etf_flag,Defiance Daily Target 2X Long SOUN ETF
-SOVF,etf_flag,Sovereign's Capital Flourish Fund
 SOXL,etf_flag,Direxion Daily Semiconductor Bull 3X ETF
 SOXQ,etf_flag,Invesco PHLX Semiconductor ETF
 SOXS,etf_flag,Direxion Daily Semiconductor Bear 3X ETF
